@@ -1,0 +1,58 @@
+@font-face {
+    font-family: "Punk Kid";
+    src: url("../fonts/punk-kid/Punk Kid/punk kid.ttf") format("truetype");
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("../images/elcarito-MHNjEBeLTgw-unsplash.jpg");
+}
+
+h1 {
+    font-family: "Punk Kid", Verdana;
+    font-size: 100px;
+    color: midnightblue;
+    text-align: center;
+    margin-top: 0;
+}
+
+caption {
+    padding-bottom: 20px;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px;
+}
+
+tfoot td {
+    padding-left: 5px;
+}
+
+.first-col {
+    width: 10%;
+}
+
+.second-col {
+    width: 70%;
+}
+
+.third-col {
+    width: 20%;
+}
+
+#css-properties-caption {
+    margin-top: 40px;
+}
+
