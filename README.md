@@ -1,0 +1,2 @@
+# Cheatsheet
+This web page is a project for the Codecademy Full-Stack Engineer course. It contains things I want to have a quick reference to. It will be growing as I come across things I want to reference in developing web sites.
